@@ -1,4 +1,4 @@
-# Unofficial TensorFlow certification guide 2022
+# tensorflow-work
 
 ## About this repository
 
@@ -26,11 +26,13 @@ The TensorFlow Certificate official exam guide is a 9-page PDF file, of which th
 
 Each and every reference/link in this section is important, as they are the things that helped me narrow down exactly just what it is that I have to do to convince an employer that I have done enough work to say that I passed a particular exam.
 
-- The official TensorFlow Certificate web page: https://www.tensorflow.org/certificate.  You start here.  Here you'll find [the 9-page exam guide](https://www.tensorflow.org/extras/cert/TF_Certificate_Candidate_Handbook.pdf), and even [the candidate technical guide](https://www.tensorflow.org/extras/cert/Setting_Up_TF_Developer_Certificate_Exam.pdf).  It's important to remember **official** sources, as they are an authority.  But the most important thing is the official exam guide.  This tells you exactly what will be covered by the exam and also everything that *won't* be covered, which is a crucial step.  TensorFlow has many uses and a lot of documentation about each use, but a large amount of that won't be covered by the exam, so identify what that is and then oONLY do that and no more than that.  The TensorFlow Certificate web page mentions 2 online  courses.
+- The official TensorFlow Certificate web page: https://www.tensorflow.org/certificate.  You start here.  Here you'll find [the 9-page exam guide](https://www.tensorflow.org/extras/cert/TF_Certificate_Candidate_Handbook.pdf), and even [the candidate technical guide](https://www.tensorflow.org/extras/cert/Setting_Up_TF_Developer_Certificate_Exam.pdf).  It tells you exactly what will be covered by the exam and also everything that *won't* be covered, which is crucial.  TensorFlow has many uses and a lot of documentation about each use, but a large amount of that won't be covered by the exam, so identify what that is and then _only_ do that and no more than that.  The TensorFlow Certificate web page mentions 2 online  courses.
 
-- The study guide, or the certificate web page, states explicitly that "everything that is covered by the exam can be found in the official TensorFlow guides and tutorials.  Also, though, the exam guide specifies CNNs, natural language processing, and time series enalysis.
+- The exam guide specifies CNNs, natural language processing, and time series enalysis.
 
-- There are 2 officially recognized/referred online courses, regarding the TensorFlow certification: the one from [Coursera](https://www.coursera.org/professional-certificates/tensorflow-in-practice#courses), and the one from [Udacity](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187).  The GitHub repository locations associated with these 2 courses, as I have determined, are https://github.com/lmoroney/dlaicourse, and https://github.com/tensorflow/examples/tree/master/courses/udacity_intro_to_tensorflow_for_deep_learning.  Both are from *official* Google sources.
+- Both the study guide and the certificate web page state that "everything that is covered by the exam can be found in the official TensorFlow guides and tutorials."
+
+- There are 2 officially recognized/referred online courses, regarding the TensorFlow certification: the one from [Coursera](https://www.coursera.org/professional-certificates/tensorflow-in-practice#courses), and the one from [Udacity](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187).  I believe that each online course has a GitHub repository, and are https://github.com/lmoroney/dlaicourse, and https://github.com/tensorflow/examples/tree/master/courses/udacity_intro_to_tensorflow_for_deep_learning.
 
 - [Google Colab](https://colab.research.google.com) has made it very easy to do everything you need in TensorFlow, using only the web browser.  I have indeed dealt with the various issues regarding just installing TensorFlow, like making sure your CPU has the appropriate instruction set, managing a Python virtual environment via pip, maybe using Bazel to build it from source to build a Python wheel, etc., even Docker.  But with Colab, everything is entirely in the cloud and in the web browser, and it's free, and you can import TensorFlow and it just works.  It also integrates with GitHub very well, so it's a perfect combination for practing 100% of everything required for the exam.
 <!---## So please hire me
