@@ -2,9 +2,9 @@
 
 ## About this repository
 
-This repository is just for job-seeking purposes; it's made only for recruitors during my job-hunting this January 2022.
+This repository is just for some job-seeking; it's made for recruitors, circa January 2022.
 
-This repository features recent and practical TensorFlow-specific work as contained in notebook files.
+These are some recent and practical TensorFlow-specific notebook files.
 
 <!---## The official TensorFlow Certificate is gold here
 
