@@ -1,8 +1,8 @@
-# My Unofficial TensorFlow certification guide 2022
+# Unofficial TensorFlow certification guide 2022
 
 ## About this repository
 
-This repository is just for **my** job-seeking purposes; it's made **ONLY** with the intent of impressing potential employers during my job-hunting this January 2022.
+This repository is just for job-seeking purposes; it's made only for recruitors during my job-hunting this January 2022.
 
 With that being said, an employer might care about exactly 2 pieces of value in regards to the items in this repository (there's only 2 kinds: this README.md file, and scientific notebook files):
 1. recent and practical TensorFlow-specific work as exemplified by each of the Python notebooks found in this repository, and
@@ -43,7 +43,6 @@ If I've found the 2 GitHub URLs used behind the only 2 officially-supported Udac
 
 ### Disclaimer
 
-- While indeed this document might come across as having the features of a study guide, it is indeed instead being specifically tailored for any prospective employer who wants to hire me for a job in the near future.  At least that's the original intent, and that's the way it's presented.  No it's not at all specifically intended to aid potential test-takers of the certification exam.  Humerously though, it practically is a study guide.
-- I've also dealt with lesser known but still officially-supported high-level GitHub repositories on the official GitHub TensorFlow project page.  Good developers know the difference between this URL and this directory, with all of the plentiful and beautiful TensorFlow projects. https://github.com/tensorflow/models/blob/master/research/object_detection/README.md, graphics, gan, datasets, models, tensorboard, probability.  **NONE** of these repositories are covered by the exam.
+- I've also dealt with lesser known but still officially-supported high-level GitHub repositories on the official GitHub TensorFlow project page.  https://github.com/tensorflow/models/blob/master/research/object_detection/README.md, graphics, gan, datasets, models, tensorboard, probability.  **None** of these repositories are covered by the exam.
 
-- [TensorFlow Without A PhD](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd/) is personally recommended GitHub repository I recommend going through to not only prepare for the exam (it coincidently-enough has some content that overlaps with the exam's contents), but is just awesome in and of itself.  It's of high quality too.
+- [TensorFlow Without A PhD](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd/) is personally recommended GitHub repository I recommend going through to not only prepare for the exam (it coincidently-enough has some content that overlaps with the exam's contents), but is just awesome in and of itself.  It's of high quality too.  There's **some** overlap between the exam and this course.
