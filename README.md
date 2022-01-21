@@ -2,7 +2,7 @@
 
 This repository contains recent notebooks for my work on completing the official TensorFlow certification.
 
-> On my first _**ever**_ visit to the web page at www.TensorFlow.org/certificate, I was exstatic to see that there was **finally** an official certification for the technology, and I began working on what it takes to achieve certification, as soon as possible.  I did research to verify _**all of the content**_ and _**all of the work**_ required to pass the exam, and this repository is the result of that.
+> On my first _**ever**_ visit to the web page at www.TensorFlow.org/certificate, I was ecstatic to see that there was **finally** an official certification for the technology, and I began working on what it takes to achieve it.  I did research to verify _**all of the content**_ and _**all of the work**_ required to pass the exam, and this repository is the result of that.
 
 <!---## The official TensorFlow Certificate is gold here
 
@@ -38,8 +38,8 @@ You might be surprised to find that I myself **DO NOT** have a TensorFlow certif
 
 If I've found the 2 GitHub URLs used behind the only 2 officially-supported Udacity/Coursera courses/specializations, and made extensive use of Colab to work very efficiently, and have dabbled in the other 20 or so official TensorFow repositories (and not just the main popular one), and I have my own datasets to work with (in addition to the ones provided built-in to TensorFlow), then I'm a worthy candidate for your company.  This is arguing that while although I don't currently actually literally have a TensorFlow Certificate right now, I've done some high-quality thought and work about it, such that I'd be a good candidate for your company.  I'm arguing to the degree that we can both agree that I *practically* have one.--->
 
-### Disclaimer
+## Disclaimer
 
-- [TensorFlow Without A PhD](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd/) is a personally recommended GitHub repository I recommend going through to not only prepare for the exam, but is just awesome in and of itself.  It's of high quality too.  There's some **good** overlap between the exam and this course.
+- [TensorFlow Without A PhD](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd/) is a personally recommended GitHub repository I recommend going through to not only prepare for the exam, but is just awesome in and of itself.  It's good quality too.  There's some **good** overlap between the exam and this course.
 
 - TensorFlow is usually just the main repository, but there are [20+ other officially-supported repositories](https://github.com/orgs/tensorflow/repositories) that I've worked with and I think are neat. **models** and **datasets** are pretty core; [this](https://github.com/tensorflow/models/blob/master/research/object_detection/) directory is neat.  There's also gan, graphics, and probability.  **None** of these repositories are covered by the exam.
