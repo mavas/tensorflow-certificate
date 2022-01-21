@@ -1,10 +1,8 @@
 # tensorflow-work
 
-## About this repository
+This repository contains recent notebooks for my work on completing the official TensorFlow certification.
 
-This repository is just for some job-seeking; it's made for recruitors, circa January 2022.
-
-This repository contains my notebooks for attempting to complete the official TensorFlow certification.
+> On my first _**ever**_ visit to the web page at www.TensorFlow.org/certificate, I was exstatic to see that there was **finally** an official certification for the technology, and I began working on what it takes to achieve certification, as soon as possible.  I did research to verify _**all of the content**_ and _**all of the work**_ required to pass the exam, and this repository is the result of that.
 
 <!---## The official TensorFlow Certificate is gold here
 
