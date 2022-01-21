@@ -24,8 +24,6 @@ The TensorFlow Certificate official exam guide is a 9-page PDF file, of which th
 
 ## About the references
 
-Each and every reference/link in this section is important, as they are the things that helped me narrow down exactly just what it is that I have to do to convince an employer that I have done enough work to say that I passed a particular exam.
-
 - The official TensorFlow Certificate web page: https://www.tensorflow.org/certificate.  You start here.  Here you'll find [the 9-page exam guide](https://www.tensorflow.org/extras/cert/TF_Certificate_Candidate_Handbook.pdf), and even [the candidate technical guide](https://www.tensorflow.org/extras/cert/Setting_Up_TF_Developer_Certificate_Exam.pdf).  It tells you exactly what will be covered by the exam and also everything that *won't* be covered, which is crucial.  TensorFlow has many uses and a lot of documentation about each use, but a large amount of that won't be covered by the exam, so identify what that is and then _only_ do that and no more than that.  The TensorFlow Certificate web page mentions 2 online  courses.
 
 - The exam guide specifies CNNs, natural language processing, and time series enalysis.
