@@ -4,7 +4,7 @@
 
 This repository is just for some job-seeking; it's made for recruitors, circa January 2022.
 
-This repository contains notebooks for all the references spoken about below.
+This repository contains my notebooks for attempting to complete the official TensorFlow certification.
 
 <!---## The official TensorFlow Certificate is gold here
 
