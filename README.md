@@ -2,7 +2,7 @@
 
 This repository contains recent notebooks for my work on completing the official TensorFlow certification.
 
-> On my first _**ever**_ visit to the web page at www.TensorFlow.org/certificate, I remember being ecstatic to see that there was **finally** an official certification for the technology, and I began working on what it takes to achieve it.  I did research and scholarship to verify _**all of the content**_ and _**all of the work**_ required to pass the exam, and then did that work, and this repository is the result.
+> On my first _**ever**_ visit to the web page at www.TensorFlow.org/certificate, I remember being ecstatic to see that there was **finally** an official certification for the technology, and I began working on achieving it.  I did research and scholarship to verify _**all of the content**_ and _**all of the work**_ required to pass the exam, without actually taking the exam or paying the fee, and then did that work, and this repository is the result.
 
 <!---## The official TensorFlow Certificate is gold here
 
@@ -42,4 +42,4 @@ If I've found the 2 GitHub URLs used behind the only 2 officially-supported Udac
 
 - [TensorFlow Without A PhD](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd/) is a personally recommended GitHub repository I recommend going through to not only prepare for the exam, but is just awesome in and of itself.  It's good quality too.  There's some **good** overlap between the exam and this course.
 
-- TensorFlow is usually just the main repository, but there are [20+ other officially-supported repositories](https://github.com/orgs/tensorflow/repositories) that I've worked with and I think are neat. **models** and **datasets** are pretty core; [this](https://github.com/tensorflow/models/blob/master/research/object_detection/) directory is neat.  There's also gan, graphics, and probability.  **None** of these repositories are covered by the exam.
+- TensorFlow is usually just the main repository, but there are [20+ other officially-supported repositories](https://github.com/orgs/tensorflow/repositories) and some I've worked with and I think are neat. **models** and **datasets** are pretty core; [this](https://github.com/tensorflow/models/blob/master/research/object_detection/) directory is neat.  There's also gan, graphics, and probability.  **None** of these repositories are covered by the exam.
