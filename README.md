@@ -2,7 +2,7 @@
 
 This repository contains recent notebooks for my work on completing the official TensorFlow certification.
 
-> On my first _**ever**_ visit to the web page at www.TensorFlow.org/certificate, I remember being ecstatic to see that there was **finally** an official certification for the technology, and I began working on achieving it.  I did research and scholarship to verify _**all of the content**_ and _**all of the work**_ required to pass the exam, without actually taking the exam or paying the fee, and then did that work, and this repository is the result.
+> On my first _**ever**_ visit to the web page at www.TensorFlow.org/certificate, I remember being ecstatic to see that there was **finally** an official certification for the technology, and I began working on achieving it.  I did research and scholarship to verify _**all of the content**_ and _**all of the work**_ required to pass the exam, without actually taking the exam and paying the fee, and then did that work, and this repository is the result.
 
 <!---## The official TensorFlow Certificate is gold here
 
@@ -22,18 +22,19 @@ The TensorFlow Certificate official exam guide is a 9-page PDF file, of which th
 
 - _**[The Exam Guide]:**_ The official TensorFlow Certificate web page: https://www.tensorflow.org/certificate.  You start here.  Here you'll find [the 9-page exam guide](https://www.tensorflow.org/extras/cert/TF_Certificate_Candidate_Handbook.pdf).  It tells you exactly what will be covered by the exam and also everything that *won't* be covered, which is crucial.  TensorFlow has many uses and a lot of documentation about each use, but a large amount of that won't be on the exam, so identify what that is and then _only_ do that and no more than that.
 
-- _**[The Skills Checklist]:**_ After obtaining the exam guide, the most important section is at "Exam details" -> "Skills checklist" ; it's on pages 3 through 5, and it has **FIVE** sections.  I would say that **the last THREE sections** are the most important, followed by section 2 and then one.  The first 2 sections are kind of generic about just simply *using* TensorFlow (debugging, eg.), and the last 3 sections are actually about ML and you should know all of it: image classification (CNNs), natural language processing, and "time series"/sequences/predictions.
+- _**[The Skills Checklist]:**_ After obtaining the exam guide, the most important section is at "Exam details" -> "Skills checklist" ; it's on pages 3 through 5, and it has **FIVE** sections.  I would say that **the last THREE sections** are the most important, followed by section 2 and then one.  The first 2 sections are kind of generic about just simply *using* TensorFlow (debugging, eg.), and the last 3 sections are actually about ML and you should know and understand all of it: image classification (CNNs), natural language processing, and "time series"/sequences/predictions.
 
-- _**[The Guides and Tutorials]:**_ A note at the end of the "Skills checklist" section says, in short, "All knowledge tested in the exam is adequately covered in the guides and tutorials on tensorflow.org".  Very important.  The web site indeed has specific sections for both [guides](https://www.tensorflow.org/guide/basics) and [tutorials](https://www.tensorflow.org/tutorials).  Reading a certain combination of both will make sure you pass the exam.  The guides and tutorials are all just Python notebooks.
+- _**[The Guides and Tutorials]:**_ A note at the end of the "Skills checklist" section says, in short, "All knowledge tested in the exam is adequately covered in the guides and tutorials on tensorflow.org".  Very important.  The web site indeed has specific sections for both [guides](https://www.tensorflow.org/guide/basics) and [tutorials](https://www.tensorflow.org/tutorials).  Reading a certain combination of both will make sure you pass the exam.  So I guess - according to that - you could read a certain amount of both the guides and tutorials, and you can take the exam.  The guides and tutorials are all just Python notebooks.
 
-- _**[The online course GitHubs]:**_ The web site recommends a [Coursera](https://www.coursera.org/professional-certificates/tensorflow-in-practice#courses) course and an [Udacity](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) course.  I believe that each online course has a GitHub repository, and are [dlaicourse](https://github.com/lmoroney/dlaicourse), and [udacity_intro_to_tensorflow](https://github.com/tensorflow/examples/tree/master/courses/udacity_intro_to_tensorflow_for_deep_learning).  These are recommended as *optional*, but can be used as *additional* learning resources, in addition to the standard guides and tutorials.  It's just 2 Git repositories full of Python notebooks.
+- _**[The online course GitHubs]:**_ But even despite the included guides and tutorials being sufficient, there is also both a [Coursera](https://www.coursera.org/professional-certificates/tensorflow-in-practice) course and [Udacity](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) course that the certificate web page recommends.  They both seem to have GitHub repositories at [dlaicourse](https://github.com/lmoroney/dlaicourse) and [udacity_intro_to_tensorflow](https://github.com/tensorflow/examples/tree/master/courses/udacity_intro_to_tensorflow_for_deep_learning).  It's just 2 Git repositories full of Python notebooks.
 
-So after reading the guides and tutorials, and going through maybe the Udacity and Coursera courses, and of course satisfying everything else in the exam guide, you can be reasonably confident that after doing these things, you have a good chance of passing the exam.
+So you take all of these \*.ipynb files.  So all of the work that you have to do is exactly 2 things: 1.) a good amount of reading (provided by the guides and tutorials), and 2.) lots of experimentation with the \*.ipynb files.
+
+So after reading the guides and tutorials, and going through maybe the Udacity and Coursera courses, and of course satisfying everything else in the exam guide, you can be reasonably confident that after doing these things, you have a good chance of passing the exam.  So if you go through the 80 or so Python notebooks in these 4 or so GitHub repositories, you'd be in tip top shape to pass the exam.
+
+Then, you can collect all of those \*.ipynb files and put them in your own GitHub repository (just like this one), and then use Colab to work on all of them for free, in the cloud, through the web browser.
 
 Make sure you go back to that Skills Checklist section and thoroughly go over each bullet point.  Remember this: that section of the exam guide has mostly bullet points in it: not paragraphs.  So make sure to make sure each one is covered, first to last.
-
-There are 31 notebooks in the udacity course.
-There are 51 notebooks in the Coursera course repository.
 
 <!---## So please hire me
 
@@ -48,3 +49,5 @@ If I've found the 2 GitHub URLs used behind the only 2 officially-supported Udac
 - [Google Colab](https://colab.research.google.com) has made it very easy to do everything you need in TensorFlow, using only the web browser.  I have indeed dealt with the various issues regarding just installing TensorFlow, like making sure your CPU has the appropriate instruction set, managing a Python virtual environment via pip, maybe using Bazel to build it from source to build a Python wheel, etc., even Docker.  But with Colab, everything is entirely in the cloud and in the web browser, and it's free, and you can import TensorFlow and it just works.  It also integrates with GitHub very well, so it's a perfect combination for practing 100% of everything required for the exam.
 
 - In addition to the exam guide, you can also get [the candidate technical guide](https://www.tensorflow.org/extras/cert/Setting_Up_TF_Developer_Certificate_Exam.pdf), which is useful for if and when you actually physically take the exam (but it might also be useful for the first item on the "Skills checklist").
+
+- Credits to the creators of the Udacity and Coursera courses.  I did actually *start* one of the courses and watched the videos and explanations and followed the exercises and such.  "I don't know about you but I can play with this stuff all day."
