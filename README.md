@@ -20,7 +20,7 @@ The TensorFlow Certificate official exam guide is a 9-page PDF file, of which th
 
 ## About the references
 
-- _**[The Exam Guide]:**_ The official TensorFlow Certificate web page: https://www.tensorflow.org/certificate.  You start here.  Here you'll find [the 9-page exam guide](https://www.tensorflow.org/extras/cert/TF_Certificate_Candidate_Handbook.pdf) \[and even [the candidate technical guide](https://www.tensorflow.org/extras/cert/Setting_Up_TF_Developer_Certificate_Exam.pdf)\].  It tells you exactly what will be covered by the exam and also everything that *won't* be covered, which is crucial.  TensorFlow has many uses and a lot of documentation about each use, but a large amount of that won't be covered by the exam, so identify what that is and then _only_ do that and no more than that.
+- _**[The Exam Guide]:**_ The official TensorFlow Certificate web page: https://www.tensorflow.org/certificate.  You start here.  Here you'll find [the 9-page exam guide](https://www.tensorflow.org/extras/cert/TF_Certificate_Candidate_Handbook.pdf).  It tells you exactly what will be covered by the exam and also everything that *won't* be covered, which is crucial.  TensorFlow has many uses and a lot of documentation about each use, but a large amount of that won't be covered by the exam, so identify what that is and then _only_ do that and no more than that.
 
 - _**[The Skills Checklist]:**_ The most important section to see is called "Exam details" -> "Skills checklist" ; it has five sections, and lasts from page 3 to 5.  The first 2 sections are kind of generic about just simply *using* TensorFlow (debugging, eg.), and the last 3 sections are actually about ML and you should know all of it: image classification (CNNs), natural language processing, and "time series, sequences and predictions".
 
@@ -34,8 +34,10 @@ You might be surprised to find that I myself **DO NOT** have a TensorFlow certif
 
 If I've found the 2 GitHub URLs used behind the only 2 officially-supported Udacity/Coursera courses/specializations, and made extensive use of Colab to work very efficiently, and have dabbled in the other 20 or so official TensorFow repositories (and not just the main popular one), and I have my own datasets to work with (in addition to the ones provided built-in to TensorFlow), then I'm a worthy candidate for your company.  This is arguing that while although I don't currently actually literally have a TensorFlow Certificate right now, I've done some high-quality thought and work about it, such that I'd be a good candidate for your company.  I'm arguing to the degree that we can both agree that I *practically* have one.--->
 
-## Disclaimer
+## Additional Notes
 
 - [TensorFlow Without A PhD](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd/) is a personally recommended GitHub repository I recommend going through to not only prepare for the exam, but is just awesome in and of itself.  It's good quality too.  There's some **good** overlap between the exam and this course.
 
 - [Google Colab](https://colab.research.google.com) has made it very easy to do everything you need in TensorFlow, using only the web browser.  I have indeed dealt with the various issues regarding just installing TensorFlow, like making sure your CPU has the appropriate instruction set, managing a Python virtual environment via pip, maybe using Bazel to build it from source to build a Python wheel, etc., even Docker.  But with Colab, everything is entirely in the cloud and in the web browser, and it's free, and you can import TensorFlow and it just works.  It also integrates with GitHub very well, so it's a perfect combination for practing 100% of everything required for the exam.
+
+- \[and even [the candidate technical guide](https://www.tensorflow.org/extras/cert/Setting_Up_TF_Developer_Certificate_Exam.pdf)\]
