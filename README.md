@@ -1,4 +1,4 @@
-# tensorflow-work
+# tensorflow-certificate
 
 This repository contains recent notebooks for my work on completing the official TensorFlow certification.
 
