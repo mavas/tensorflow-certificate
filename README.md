@@ -1,8 +1,8 @@
 # tensorflow-certificate
 
-This repository contains recent notebooks for my work on completing the official TensorFlow certification.
+This repository contains recent notebooks for my work on completing the official TensorFlow certification:
 
-> On my first _**ever**_ visit to the web page at www.TensorFlow.org/certificate, I remember being ecstatic to see that there was **finally** an official certification for the technology, and I began working on achieving it.  I did research and scholarship to verify _**all of the content**_ and _**all of the work**_ required to pass the exam, without actually taking the exam and paying the fee, and then did that work, and this repository is the result.
+> On my first _**ever**_ visit to the web page at www.TensorFlow.org/certificate, I remember being ecstatic to see that there was **finally** an official certification for the technology, and I began working on achieving it.  I did research and scholarship to verify _**all of the content**_ and _**all of the work**_ required to pass the exam, _without_ actually taking the exam and paying the fee, and then did that work, and this repository is the result.
 
 <!---## The official TensorFlow Certificate is gold here
 
